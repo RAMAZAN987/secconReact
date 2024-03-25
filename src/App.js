@@ -6,9 +6,6 @@ function App() {
   return (
     <div className="App">
       <Cart />
-      <div>
-        lorem100
-      </div>
     </div>
   );
 }
