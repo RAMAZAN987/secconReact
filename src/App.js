@@ -6,8 +6,9 @@ function App() {
   return (
     <div className="App">
       <Cart />
-      <p>lore
-      </p>
+      <div>
+        lorem100
+      </div>
     </div>
   );
 }
