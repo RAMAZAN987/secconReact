@@ -1,0 +1,31 @@
+.img {
+    width: 341px;
+    height: 415px;
+    margin: 5px;
+}
+.cart-block {
+    display: flex;
+    justify-content: space-between;
+}
+.text {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.cart {
+    width: 355px;
+    height: 440;
+    box-shadow: 1px 1px 1px 1px;
+    margin-top: 10px;
+}
+.btn {
+    margin: 5px;
+    border: none;
+    width: 344px;
+    background-color: orange;
+    height: 50px;
+}
+
+.buy2 {
+    text-decoration: line-through;
+}
